@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meuApp",
-    "slug": "meuapp",
+    "name": "my-app",
+    "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,12 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "5dd96f44-a5d3-41b5-b341-b5e3da6e8caa"
-      }
-    },
-    "owner": "elaynefmelo"
+    }
   }
 }
