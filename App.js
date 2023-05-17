@@ -128,7 +128,7 @@ const styles = StyleSheet.create({
     width: 40,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#002356',
+    backgroundColor: '#32CD32',
     borderRadius: 4,
     marginLeft: 10,
   },
@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
     marginBottom: 15,
     padding: 15,
     borderRadius: 4,
-    backgroundColor: '#FFD24C',
+    backgroundColor: '#eee',
 
     display: 'flex',
     flexDirection: 'row',
@@ -159,7 +159,7 @@ const styles = StyleSheet.create({
   },
   Titulo: {
     fontSize: 18,
-    color: '#002356',
+    color: '#000',
     textAlign: 'center',
     fontWeight: 'bold',
     marginTop: 25,
